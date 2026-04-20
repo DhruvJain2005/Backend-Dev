@@ -1,2 +1,13 @@
 # Backend-Dev
 Here , i will study and perform backend development . I will perform this with the help of Bridgelab classes.
+
+
+THIS IS OUR PROJECT DETAILS :-
+
+Project Deployment Link :- https://project-olms.vercel.app/
+LMS FRONTEND REPOSITORY LINK :- https://github.com/DhruvJain2005/LMS-PROJECT-FRONTEND
+LMS BACKEND REPOSITORY LINK :- https://github.com/DhruvJain2005/LMS-PROJECT-BACKEND
+
+
+
+MY GITHUB LINK :- https://github.com/DhruvJain2005

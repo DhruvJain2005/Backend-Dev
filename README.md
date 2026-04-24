@@ -4,7 +4,7 @@ Here , i will study and perform backend development . I will perform this with t
 
 THIS IS OUR PROJECT DETAILS :-
 
-Project Deployment Link :- https://project-olms.vercel.app/
+Project Deployment Link :- https://learnifyapp-production.up.railway.app/
 LMS FRONTEND REPOSITORY LINK :- https://github.com/DhruvJain2005/LMS-PROJECT-FRONTEND
 LMS BACKEND REPOSITORY LINK :- https://github.com/DhruvJain2005/LMS-PROJECT-BACKEND
 DOCUMENTATION LINK :- https://drive.google.com/file/d/1espzVOfpQz3833hp4oOthGBSwIQb3KYc/view?usp=drivesdk
